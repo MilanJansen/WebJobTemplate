@@ -10,9 +10,9 @@ import com.alliander.webjob.SSLManager;
 
 public class BodyFromURLDownloader {
 	/** URL of wanted body */
-	private static final String URI = "";
+	private static final String URI = "https://coinmarketcap.com";
 	/** Path plus filename plus extension to target location */
-	private static final String FILENAME_PATH = "";	
+	private static final String FILENAME_PATH = "D:\\Repo\\WebJobTemplate\\WebJobTemplate\\src\\main\\java\\com\\alliander\\generator\\file\\coinmarketcap.html";
 	
 	/**
 	 * WSDL public-lighting:
